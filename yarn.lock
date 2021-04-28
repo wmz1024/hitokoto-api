@@ -3297,15 +3297,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-json-stringify@npm:2.6.0":
-  version: 2.6.0
-  resolution: "fast-json-stringify@npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.nlark.com%2Ffast-json-stringify%2Fdownload%2Ffast-json-stringify-2.6.0.tgz"
+"fast-json-stringify@npm:2.7.1":
+  version: 2.7.1
+  resolution: "fast-json-stringify@npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.nlark.com%2Ffast-json-stringify%2Fdownload%2Ffast-json-stringify-2.7.1.tgz"
   dependencies:
     ajv: ^6.11.0
     deepmerge: ^4.2.2
     rfdc: ^1.2.0
     string-similarity: ^4.0.1
-  checksum: 73275d112d36b0ec5fb115f6a3811c6c969a69ce70ee49f26bf82b77a57e78d6e052dbd35f39ec0fc8e97608942d8646fefdc3b012b15658d4d38a5369768baf
+  checksum: 8ca10f55ecaca6764616e7d02f743b7c972c71e6163eb17a6543f64568ed33a0aaec2854b187002afb6febe2ef36601cdb33e3f922cce132a44b6adfb43d8abb
   languageName: node
   linkType: hard
 
@@ -4100,7 +4100,7 @@ __metadata:
     eslint-plugin-node: 11.1.0
     eslint-plugin-prettier: 3.4.0
     eslint-plugin-promise: 5.1.0
-    fast-json-stringify: 2.6.0
+    fast-json-stringify: 2.7.1
     flatstr: 1.0.12
     got: 11.8.2
     humanize-number: 0.0.2
